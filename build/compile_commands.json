@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Professional/OOP.test/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OOP_test.dir/includes_CXX.rsp -g -o CMakeFiles\\OOP_test.dir\\main.cpp.obj -c C:\\Users\\Professional\\OOP.test\\src\\main.cpp",
+  "file": "C:/Users/Professional/OOP.test/src/main.cpp",
+  "output": "src/CMakeFiles/OOP_test.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Professional/OOP.test/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OOP_test.dir/includes_CXX.rsp -g -o CMakeFiles\\OOP_test.dir\\utils.cpp.obj -c C:\\Users\\Professional\\OOP.test\\src\\utils.cpp",
+  "file": "C:/Users/Professional/OOP.test/src/utils.cpp",
+  "output": "src/CMakeFiles/OOP_test.dir/utils.cpp.obj"
+}
+]
