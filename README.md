@@ -10,4 +10,4 @@
 10) обратрно в главную ветку: git checkout main
 11) добавляем в main.cpp
 12) git add ./git  commit -m ""/git push origin main
-13) слияние: git merge feature-utils, разрешение конфликтов (долго было и тяжко), git add ./git commit -m ""/git push --all origin main
+13) слияние: git merge feature-utils, разрешение конфликтов (долго было и тяжко), git add ./git commit -m ""/git push --all origin 
